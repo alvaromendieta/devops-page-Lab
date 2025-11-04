@@ -4,5 +4,4 @@ A demo of GitHub Pages integrated with CI/CD to auto-update the README with rece
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-
 <!--END_SECTION:activity-->
