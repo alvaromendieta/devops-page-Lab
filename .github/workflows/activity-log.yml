@@ -13,7 +13,7 @@ jobs:
       - name: Update README with recent activity
         uses: jamesgeorge007/github-activity-readme@v0.3.0
         with:
-          GH_USERNAME: juanmsoto
+          GH_USERNAME: alvaromendieta
           COMMIT_MSG: "chore: update activity log"
         env:
           GITHUB_TOKEN: ${{ secrets.TOKEN }}
