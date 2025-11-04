@@ -1,7 +1,7 @@
-# My DevOps GitHub Pages Project
+# My Web Page
 
-This page auto-updates with my latest GitHub activity!
+This repo shows GitHub Pages + CI which autoupdates README with recent activity.
 
-## 👣 Latest Activity
+## Recent Activity
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
